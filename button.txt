@@ -1,0 +1,17 @@
+<input type="submit" name="Submit" value="LOGOUT" onclick="window.location.href='login.php'"/>
+
+
+table backgroud color: background:#eaebec;
+
+td background color: #fafafa;
+
+background: #fafafa;
+	background-image:url(../image/517997511.jpg);
+	background: -webkit-gradient(linear, left top, left bottom, from(#fbfbfb), to(#fafafa));
+	background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);
+
+table tr:hover td {
+	background: #f2f2f2;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#f0f0f0));
+	background: -moz-linear-gradient(top,  #f2f2f2,  #f0f0f0);	
+}

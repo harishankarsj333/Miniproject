@@ -1,0 +1,85 @@
+/* CSS Document */
+body
+{margin:0px;
+ padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #112;
+}
+body {
+    background-color: white;
+}
+
+#container {
+    
+    color:white;
+    text-align:center;
+    padding:0px;
+}
+
+
+
+#header {
+    
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav { 
+     background-color:#000000;
+	margin :0px;
+    line-height:30px;
+    width:150px;
+	height:1700px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    background-color:#000000;
+    margin:0px;
+    width:1169px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#part{
+ width:500px;
+ height:auto;
+ background-color:#000000;
+ float:right;
+ margin-top:2cm;
+ margin-right:2cm;
+ padding:10px;
+border-radius:10px;
+ webkit-box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5); -moz-box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5); box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+#footer {
+    background-color:black;
+    color:red;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}

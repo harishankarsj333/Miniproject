@@ -1,0 +1,26 @@
+/* CSS Document */
+#header {
+    background-color:#B00000;
+    height: 100px;
+}
+#header {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.mainwidth {
+    margin: 0 auto;
+    position: relative;
+    width: 960px;
+}
+
+#headerLeft
+{
+	float:left;
+	width:auto;
+}
+
+#headerLeft img
+{
+	vertical-align:bottom; /*fix ie8 rollover shift */
+}
